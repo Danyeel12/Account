@@ -1,0 +1,24 @@
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\bin\Debug\Assignment_04_Account.exe.config
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\bin\Debug\Assignment_04_Account.exe
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\bin\Debug\Assignment_04_Account.pdb
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\obj\Debug\Assignment_04_Account.exe
+C:\Users\Lenovo\Desktop\Centennial College\23W-Software Engineering Technology\COMP 123\Week12\Assignment_04_Account\obj\Debug\Assignment_04_Account.pdb
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\bin\Debug\Assignment_04_Account.exe.config
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\bin\Debug\Assignment_04_Account.exe
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\bin\Debug\Assignment_04_Account.pdb
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.AssemblyReference.cache
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.exe
+C:\Users\Daniel\Dropbox\PC\Desktop\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.pdb
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\bin\Debug\Assignment_04_Account.exe.config
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\bin\Debug\Assignment_04_Account.exe
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\bin\Debug\Assignment_04_Account.pdb
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.exe
+C:\Users\Daniel\source\repos\Assignment_04_Account\Assignment_04_Account\obj\Debug\Assignment_04_Account.pdb
